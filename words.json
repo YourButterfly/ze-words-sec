@@ -1,0 +1,10 @@
+[
+    {
+        "zname": ["漏洞危害等级", "等级"],
+        "ename": ["grade"],
+        "description": "漏洞危害等级, 比如Low、Medium、High、Critical",
+        "refs": [
+            "https://hackerone.com/line?type=team"
+        ]
+    }
+]
